@@ -1,0 +1,3 @@
+/Users/devanshu/geant4-work/bargg_curve/build/CMakeFiles/bragg_curve.dir
+/Users/devanshu/geant4-work/bargg_curve/build/CMakeFiles/edit_cache.dir
+/Users/devanshu/geant4-work/bargg_curve/build/CMakeFiles/rebuild_cache.dir

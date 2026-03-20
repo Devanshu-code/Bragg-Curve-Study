@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/devanshu/geant4-work/bargg_curve/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
