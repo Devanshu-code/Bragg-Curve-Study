@@ -1,0 +1,5 @@
+# Alpha, 8 MeV (z=2)
+/run/initialize
+/gun/particle alpha
+/gun/energy 8 MeV
+/run/beamOn 10000

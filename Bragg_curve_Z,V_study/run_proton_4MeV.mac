@@ -1,0 +1,5 @@
+# Proton, 4 MeV (z=1)
+/run/initialize
+/gun/particle proton
+/gun/energy 4 MeV
+/run/beamOn 10000

@@ -1,0 +1,5 @@
+# Proton, 2 MeV (z=1, lower velocity)
+/run/initialize
+/gun/particle proton
+/gun/energy 2 MeV
+/run/beamOn 10000

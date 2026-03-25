@@ -1,0 +1,5 @@
+# Alpha, 4 MeV (z=2 — same energy, higher charge)
+/run/initialize
+/gun/particle alpha
+/gun/energy 4 MeV
+/run/beamOn 10000
